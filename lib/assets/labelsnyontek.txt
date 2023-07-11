@@ -1,0 +1,3 @@
+0 normal
+1 kiri
+2 kanan
